@@ -6,7 +6,7 @@
 * [ClassFinder]()
 * [CreditCardMatch]()
 * [MedCheck]()
-* [PrismaticLauncher]()
+* [PrismaticLauncher](teams/PrismaticLauncher.md)
 * [QuickCop]()
 * [SideCause]()
 * [SkillStreak]()
